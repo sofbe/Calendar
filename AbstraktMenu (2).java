@@ -12,5 +12,4 @@ public abstract class AbstraktMenu implements MenuOb {
 		public String getTitle() {
 			return title;
 		}
-
 }
